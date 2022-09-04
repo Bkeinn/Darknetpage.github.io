@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bkeinn.github.io/Darknetpage.github.io/sitemap.xml
